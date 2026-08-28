@@ -27,7 +27,7 @@ Foundational work on discovering previously unconnected knowledge, providing an 
 
 **Langley, P., Simon, H. A., Bradshaw, G. L., & Zytkow, J. M. (1987).** *Scientific Discovery: Computational Explorations of the Creative Processes.* MIT Press.
 
-[ISBN / Book Information](https://mitpress.mit.edu/9780262620868/scientific-discovery/)
+[ISBN / Book Information](https://direct.mit.edu/books/book/4759/Scientific-DiscoveryComputational-Explorations-of)
 
 A foundational computational treatment of scientific discovery and automated hypothesis formation.
 
@@ -131,9 +131,9 @@ Presents a role-based multi-agent framework for coordinating LLM agents on compl
 
 Explores language-agent systems for synthesizing scientific knowledge from research literature.
 
-### 14. Towards an AI Co-Scientist
+### 14. Accelerating scientific discovery with Co-Scientist
 
-**Gottweis, J., Weng, W.-H., Daryin, A., Tu, T., Palepu, A., Sirkovic, P., Myaskovsky, A., Weissenberger, F., Rong, K., Tanno, R., Saab, K., Popovici, D., Blum, J., Zhang, F., Chou, K., Hassidim, A., Gokturk, B., Vahdat, A., Kohli, P., Matias, Y., Carroll, A., Kulkarni, K., Tomasev, N., Guan, Y., Dhillon, V., Vaishnav, D., Lee, B., Costa, T. R. D., Penadés, J. R., Peltz, G., Xu, Y., Pawlosky, A., Karthikesalingam, A., & Natarajan, V. (2025).** *Towards an AI Co-Scientist.*
+**Gottweis, J., Weng, W.-H., Daryin, A., Tu, T., Palepu, A., Sirkovic, P., Myaskovsky, A., Weissenberger, F., Rong, K., Tanno, R., Saab, K., Popovici, D., Blum, J., Zhang, F., Chou, K., Hassidim, A., Gokturk, B., Vahdat, A., Kohli, P., Matias, Y., Carroll, A., Kulkarni, K., Tomasev, N., Guan, Y., Dhillon, V., Vaishnav, D., Lee, B., Costa, T. R. D., Penadés, J. R., Peltz, G., Xu, Y., Pawlosky, A., Karthikesalingam, A., & Natarajan, V. (2025).** *Accelerating scientific discovery with Co-Scientist*
 
 [arXiv](https://arxiv.org/abs/2502.18864)
 
