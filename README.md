@@ -39,7 +39,7 @@ This repository collects resources for understanding and evaluating these approa
 **Description:**  
 This paper reviews and compares single-LLM and multi-agent approaches to scientific hypothesis generation, focusing on scientific novelty, validity, diversity, factual grounding, computational cost, and experimental verifiability. It argues that neither architecture is inherently superior and discusses hybrid architectures combining single-model ideation with selective multi-agent critique, evidence retrieval, novelty assessment, and experimental prioritization.
 
-[View AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)
+[View AI-Assisted Research Paper](paper/Single-LLM_Versus_Multi-Agent_Debate_Systems_for_Scientific_Hypothesis_Generation_G11_MDE2026005.pdf)
 
 ---
 
@@ -163,7 +163,7 @@ The original AI-assisted research paper contained 22 references. A citation-inte
 
 The audit examined publication existence, title, authors, year, venue, and identifiers such as DOI, ISBN, and arXiv IDs. The results showed that most audited references were valid, while some contained metadata or identifier issues. The audit demonstrates why AI-generated references must be independently verified before being included in a curated research collection.
 
-[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.pdf)
+[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit_MDE2026005.pdf)
 
 ---
 
